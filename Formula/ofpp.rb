@@ -2,12 +2,12 @@ class Ofpp < Formula
   desc "FPP-to-OCaml code generator for NASA F Prime models"
   homepage "https://tangled.org/parsimoni-labs/ofpp"
   license "ISC"
-  version "20260224"
+  version "20260225"
 
   on_macos do
     on_arm do
-      url "https://homebrew-bottles.s3.fr-par.scw.cloud/ofpp-20260224.arm64_sonoma.bottle.tar.gz"
-      sha256 "2e564d797123c15fdd3be38e7abc83bb02876f99611c514242001638a5d57eb6"
+      url "https://homebrew-bottles.s3.fr-par.scw.cloud/ofpp-20260225.arm64_sonoma.bottle.tar.gz"
+      sha256 "210e1a58c0dde75c5c9aeb9469cb9d057de709f45e1d839103cd231d0f450317"
     end
     on_intel do
       url "https://homebrew-bottles.s3.fr-par.scw.cloud/ofpp-latest.sonoma.bottle.tar.gz"
