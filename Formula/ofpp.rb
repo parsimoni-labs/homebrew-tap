@@ -7,7 +7,7 @@ class Ofpp < Formula
   on_macos do
     on_arm do
       url "https://homebrew-bottles.s3.fr-par.scw.cloud/ofpp-20260224.arm64_sonoma.bottle.tar.gz"
-      sha256 "e28946a113c19bd377d14ad2b32fdb34d23b611b90eb05beb8298fe9d3139300"
+      sha256 "8993a0ecb7a1a3872cd6029c260fbcffc8fc2ab96b71686934ccdfe8e204de5d"
     end
     on_intel do
       url "https://homebrew-bottles.s3.fr-par.scw.cloud/ofpp-latest.sonoma.bottle.tar.gz"
